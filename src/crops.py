@@ -11,6 +11,10 @@ const crops = [
     id: 3,
     name: "Tomato",
   },
+  ,{
+    id:4,
+    name: "potato"  
+  }
 ];
 
 module.exports = crops;
