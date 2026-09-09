@@ -1,0 +1,1 @@
+sum(item.amount for item in cost_items if item.cycle_id == cycle.id)
