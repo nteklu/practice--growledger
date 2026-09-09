@@ -1,0 +1,4 @@
+git checkout -b chore/repo-scaffolding
+git add README.md .gitignore CONTRIBUTING.md
+git commit -m "chore: add project scaffolding (README, gitignore, contributing guide)"
+git push -u origin chore/repo-scaffolding
